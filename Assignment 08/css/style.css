@@ -1,0 +1,153 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: lightblue;
+}
+
+.main {
+  padding-top: 250px;
+  padding-left: 100px;
+}
+.fb5 {
+  font-size: 100px;
+  color: DodgerBlue;
+}
+.fb6 {
+  font-size: 25px;
+}
+
+/* form section start */
+form {
+  width: 425px;
+  height: 500px;
+  margin-left: 50%;
+  margin-top: -25%;
+  margin-bottom: 10%;
+  box-shadow: 0px 5px 8px 3px;
+  background: white;
+  z-index: 10px;
+  position: fixed;
+}
+
+/* first title and sub title start */
+.first_title {
+  font-size: 32px;
+  padding: 10px 10px 0 10px;
+}
+
+#sub_title {
+  color: #606770;
+  margin-left: 10px;
+}
+hr {
+  margin-top: 10px;
+  opacity: 20%;
+}
+/* first title and sub title end */
+
+/* input section start */
+#all {
+  width: 180px;
+  border-radius: 5px;
+  background: #e6e6ee;
+  height: 35px;
+  border: 1px solid #aaa;
+  font-size: 15px;
+  margin-left: 12px;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+#all5 {
+  width: 300px;
+  border-radius: 5px;
+  background: #e6e6ee;
+  height: 35px;
+  border: 1px solid #aaa;
+  font-size: 15px;
+  margin-left: 12px;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+/* input section end */
+
+/* date of birth section start  */
+.sub_title {
+  margin-top: 10px;
+  font-size: 12px;
+  padding-left: 10px;
+}
+select {
+  width: 125px;
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 35px;
+  font-size: 15px;
+  background: none;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
+
+/* date of birth section end  */
+
+/* gender section start  */
+.sub_title_2 {
+  margin-top: 10px;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+#all_gender {
+  width: 110px;
+  height: 25px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 10px 0px 0px 10px;
+}
+
+.female {
+  margin-top: 5px;
+  margin-left: 10px;
+}
+.male {
+  margin-top: -38px;
+  margin-left: 151px;
+}
+
+.other {
+  margin-left: 290px;
+  margin-top: -38px;
+}
+
+/* gender section start  */
+
+/* last section start  */
+.sub_title_3 {
+  margin-left: 10px;
+  font-size: 15px;
+  margin-top: 10px;
+  color: #606770;
+}
+.sub_title_3 a {
+  text-decoration: none;
+  color: blue;
+}
+
+.submit {
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  background: #0ebd02;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+/* last section end  */
+
+/* form section end */
